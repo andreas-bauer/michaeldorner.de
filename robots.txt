@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://michaeldorner.github.io/michaeldorner.de/sitemap.xml
